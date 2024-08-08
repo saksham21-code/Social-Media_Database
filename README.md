@@ -1,5 +1,6 @@
 # Social-Media_Database
-Implemented a database for a simplified social media platform that stores user profiles, posts, comments, and friend connections. This project ensures efficient data storage and retrieval, facilitating seamless user interactions and content sharing on the platform.
+
+This project contains the schema for a simplified social media platform database using PostgreSQL.
 
 ## Database Schema
 
